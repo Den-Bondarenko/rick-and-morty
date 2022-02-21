@@ -1,6 +1,6 @@
 import React from "react";
 import { Character } from "../Character/Character";
-import "./CharacterList.css";
+import "./CharactersList.css";
 
 export const CharacterList = () => {
     return (
